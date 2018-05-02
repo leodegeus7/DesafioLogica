@@ -30,6 +30,30 @@ Escreva o resultado dado através da função "escrever" para as seguintes entra
 - x:3  y:4  z:5
 
 
+
+# Desafio de Lógica 2
+
+Dado o seguinte código em portugol:
+
+```portugol
+var
+	x,y : inteiro
+
+inicio
+	x = 0
+	y = 3
+
+	para cont de 1 ate 5 faca
+      		x = x + cont * y
+	fimpara
+ 
+	escreva(x)
+ 
+fim
+```
+Escreva o resultado dado através da função "escrever".
+
+
 # Instruções
 
 - [x] Clone este repositório na sua máquina;
